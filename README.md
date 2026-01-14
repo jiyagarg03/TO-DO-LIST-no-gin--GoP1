@@ -24,7 +24,3 @@ No framework(gin) used.
 - net/http
 - encoding/json
 - sync.Mutex
-
----
-
-## Project Structure
