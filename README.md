@@ -2,7 +2,7 @@
 
 A simple **Todo List REST API** built using **Go (net/http)**.  
 This project demonstrates core backend concepts like routing, JSON handling, concurrency, and mutex usage.
-No framework(gin) used.
+No framework(gin) used. **Each line** of code includes a comment explaining what it does, making the project easy to understand for both me and the reader.
 
 ---
 
